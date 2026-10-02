@@ -1,0 +1,39 @@
+Ada Lovelace
+ada.lovelace@example.com | +44 20 7946 0958 | London, UK
+linkedin.com/in/adalovelace
+
+PROFESSIONAL SUMMARY
+Backend engineer with 8 years building payment services in Java and PostgreSQL.
+
+WORK EXPERIENCE
+
+Senior Backend Engineer, Meridian Payments
+Jan 2020 - Present
+London, UK
+- Led migration of the core ledger service to PostgreSQL, cutting month-end close time by 40%.
+- Designed REST APIs consumed by three client teams.
+- Mentored four engineers and ran weekly design reviews.
+
+Backend Engineer, Northwind Systems
+Mar 2017 - Dec 2019
+- Built Spring Boot services handling 2M requests per day.
+- Introduced CI/CD with GitHub Actions, reducing release time from days to hours.
+
+EDUCATION
+BSc Computer Science, University of London
+2013 - 2016
+
+CERTIFICATIONS
+AWS Certified Solutions Architect - Associate, issued by Amazon Web Services, 2022
+
+SKILLS
+Java, Spring Boot, PostgreSQL, REST APIs, Docker, Git, CI/CD, AWS
+
+PROJECTS
+Ledger Reconciler | Java, PostgreSQL, Docker | github.com/adalovelace/ledger
+
+AWARDS
+Engineering Excellence Award, Meridian Payments, 2023
+
+LANGUAGES
+English (native), French (professional)

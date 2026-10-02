@@ -1,0 +1,17 @@
+Grace Okafor
+grace.okafor@example.com
+Dublin, Ireland
+
+SUMMARY
+Data engineer focused on batch pipelines and warehouse modelling.
+
+EXPERIENCE
+Data Engineer | Lumen Analytics (2019 - Present)
+- Built Airflow pipelines processing 4TB daily.
+- Modelled the finance warehouse in dbt.
+
+EDUCATION
+MSc Statistics, Trinity College Dublin (2018)
+
+SKILLS
+Python, SQL, Airflow, dbt, Snowflake

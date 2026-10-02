@@ -1,0 +1,3 @@
+Single line with no headings at all, just free text that keeps going until it stops.
+This fixture intentionally omits every section heading so the parser has to report
+that nothing was detected rather than inventing structure.
