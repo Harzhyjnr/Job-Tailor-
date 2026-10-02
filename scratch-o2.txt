@@ -1,0 +1,42 @@
+﻿
+ RUN  v5.0.3 C:/Users/dell/job-tailor
+
+ Γ¥» src/services/resumeLayout.test.ts (19 tests | 1 failed | 18 skipped) 52ms
+   Γ¥» paginateDocument (11)
+     ├ù keeps a section heading with the first line of its section 48ms
+node.exe : 
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ» Failed Tests 1 ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»
+
+ FAIL  src/services/resumeLayout.test.ts > paginateDocument > keeps a section heading with the first line of its 
+section
+AssertionError: expected 1 to be +0 // Object.is equality
+
+- Expected
++ Received
+
+- 0
++ 1
+
+ Γ¥» src/services/resumeLayout.test.ts:107:36
+    105|       const following = placed[placed.indexOf(heading) + 1]
+    106|
+    107|       expect(following?.pageIndex).toBe(heading.pageIndex)
+       |                                    ^
+    108|       expect(position).toBeGreaterThanOrEqual(0)
+    109|     })
+ Γ¥» src/services/resumeLayout.test.ts:104:14
+
+ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»[1/1]ΓÄ»
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 18 skipped (19)
+   Start at  11:21:09
+   Duration  10.38s (environment 78%, setup 16%, transform 5%, import 1%, tests 1%)
+

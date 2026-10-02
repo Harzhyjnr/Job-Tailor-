@@ -1,0 +1,31 @@
+Senior Backend Engineer
+Meridian Payments — London, UK (Hybrid)
+Full-time
+
+About the role
+We are building the payments platform that powers checkout for thousands of merchants. You will
+join a small platform team and help us scale reliably.
+
+Responsibilities
+- Design and build reliable payment services in Java and Kotlin
+- Mentor engineers and lead code reviews
+- Improve observability across the platform using Prometheus and Grafana
+
+Requirements
+- 5+ years of experience with Java or Kotlin
+- 5+ years of professional backend engineering experience
+- Strong experience with PostgreSQL and relational database design
+- Experience building REST APIs and microservices
+- Familiarity with Docker and Kubernetes
+- Bachelor's degree in Computer Science or a related field
+- AWS Certified Solutions Architect certification or equivalent
+- Excellent communication and collaboration skills
+
+Preferred qualifications
+- Experience with Kafka
+- Knowledge of Terraform
+- Exposure to GraphQL
+
+Benefits
+- Hybrid working, two days in the London office
+- Private health cover and a learning budget

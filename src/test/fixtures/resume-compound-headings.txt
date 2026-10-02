@@ -1,0 +1,13 @@
+Alan Turing
+alan@example.com | Cambridge, UK
+
+PROFILE
+Mathematician and computer scientist.
+
+TECHNICAL SKILLS & TOOLING
+Python, Algorithm design
+
+WORK HISTORY
+Cryptanalyst at Government Code and Cypher School | 1939 - 1945
+- Broke the Enigma cipher machine.
+- Designed the Bombe machine.
